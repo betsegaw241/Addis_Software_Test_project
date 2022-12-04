@@ -1,10 +1,10 @@
 # Addis software test project
 
 This project is Addis software test project.
-![Alt text](https://github.com/betsegaw241/Addis_Software_Test_project/blob/master/public/Images/users%20list%20Screenshot.png)
+![Alt text](https://github.com/betsegaw241/Addis_Software_Test_project/blob/master/Images/users%20list%20Screenshot.png)
 
-![Update/Edit user](https://github.com/betsegaw241/Addis_Software_Test_project/blob/master/public/Images/Editupdate.png)
-![Add user details](https://github.com/betsegaw241/Addis_Software_Test_project/blob/master/public/Images/Add%20user%20Screenshot%20.png)
+![Update/Edit user](https://github.com/betsegaw241/Addis_Software_Test_project/blob/master/Images/Editupdate.png)
+![Add user details](https://github.com/betsegaw241/Addis_Software_Test_project/blob/master/Images/Add%20user%20Screenshot%20.png)
 
 
 ## How it works 
